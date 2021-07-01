@@ -26,7 +26,9 @@
 * data split
 * model 교육
 * 4개만 data predict
+* metrix로 스코어 확인
 
 ### 3. 서비스
 
 * pickle 만들어 불러오기
+
